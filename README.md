@@ -12,7 +12,7 @@
 
 ## Diffusion
 | Date | Title | Link | Mark| 
-| --: | -- | --: | -- |
+| -- | -- | -- | -- |
 | 12/06/2024 | Rectified Flow: Straight is Fast | [Blog](https://rectifiedflow.github.io/blog/2024/intro/) | Rectified flow learns ODEs as generative models by causalizing an interpolation process |
 
 ## Image Generation
